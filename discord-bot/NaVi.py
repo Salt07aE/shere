@@ -1,7 +1,7 @@
 import discord
 import weather
 
-TOKEN = 'NjUyNzg3MzM0NzM5Mzk0NTcw.XethsA.4WnEz0YpX9BvwdrxiylzjhWFj_4'
+TOKEN = ''
 
 client = discord.Client()
 
