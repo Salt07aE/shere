@@ -1,0 +1,344 @@
+<!-- 都道府県一覧 -->
+  <section class="section-wrap">
+    <h3>各地の天気</h3>
+    <table class="common-list-entries">
+      <tr>
+        <th><a href="/forecast/1/">北海道地方</a></th>
+        <td>
+          <ul>
+            <li class="warn-icon-set"><a href="/forecast/1/1/" class="pref-link">道北</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/1/3/" class="pref-link">道東</a><a href="/bousai/warn/1/3/" class="warn-icon is-alert"><img src="https://static.tenki.jp/images/icon/warn/alert.gif" alt="注意報" width="15" height="15"></a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/1/2/" class="pref-link">道央</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/1/4/" class="pref-link">道南</a>            </li>
+                      </ul>
+        </td>
+      </tr>
+      
+      <tr>
+        <th><a href="/forecast/2/">東北地方</a></th>
+        <td>
+          <ul>
+            <li class="warn-icon-set"><a href="/forecast/2/5/" class="pref-link">青森県</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/2/6/" class="pref-link">岩手県</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/2/7/" class="pref-link">宮城県</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/2/8/" class="pref-link">秋田県</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/2/9/" class="pref-link">山形県</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/2/10/" class="pref-link">福島県</a><a href="/bousai/warn/2/10/" class="warn-icon is-alert"><img src="https://static.tenki.jp/images/icon/warn/alert.gif" alt="注意報" width="15" height="15"></a>            </li>
+                      </ul>
+        </td>
+      </tr>
+      
+      <tr>
+        <th><a href="/forecast/3/">関東・甲信地方</a></th>
+        <td>
+          <ul>
+            <li class="warn-icon-set"><a href="/forecast/3/16/" class="pref-link">東京都</a><a href="/bousai/warn/3/16/" class="warn-icon is-alert"><img src="https://static.tenki.jp/images/icon/warn/alert.gif" alt="注意報" width="15" height="15"></a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/3/17/" class="pref-link">神奈川県</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/3/14/" class="pref-link">埼玉県</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/3/15/" class="pref-link">千葉県</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/3/11/" class="pref-link">茨城県</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/3/12/" class="pref-link">栃木県</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/3/13/" class="pref-link">群馬県</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/3/22/" class="pref-link">山梨県</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/3/23/" class="pref-link">長野県</a>            </li>
+                      </ul>
+        </td>
+      </tr>
+      
+      <tr>
+        <th><a href="/forecast/4/">北陸地方</a></th>
+        <td>
+          <ul>
+            <li class="warn-icon-set"><a href="/forecast/4/18/" class="pref-link">新潟県</a><a href="/bousai/warn/4/18/" class="warn-icon is-alert"><img src="https://static.tenki.jp/images/icon/warn/alert.gif" alt="注意報" width="15" height="15"></a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/4/19/" class="pref-link">富山県</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/4/20/" class="pref-link">石川県</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/4/21/" class="pref-link">福井県</a>            </li>
+                      </ul>
+        </td>
+      </tr>
+      
+      <tr>
+        <th><a href="/forecast/5/">東海地方</a></th>
+        <td>
+          <ul>
+            <li class="warn-icon-set"><a href="/forecast/5/26/" class="pref-link">愛知県</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/5/24/" class="pref-link">岐阜県</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/5/25/" class="pref-link">静岡県</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/5/27/" class="pref-link">三重県</a>            </li>
+                      </ul>
+        </td>
+      </tr>
+      
+      <tr>
+        <th><a href="/forecast/6/">近畿地方</a></th>
+        <td>
+          <ul>
+            <li class="warn-icon-set"><a href="/forecast/6/30/" class="pref-link">大阪府</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/6/31/" class="pref-link">兵庫県</a><a href="/bousai/warn/6/31/" class="warn-icon is-alert"><img src="https://static.tenki.jp/images/icon/warn/alert.gif" alt="注意報" width="15" height="15"></a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/6/29/" class="pref-link">京都府</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/6/28/" class="pref-link">滋賀県</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/6/32/" class="pref-link">奈良県</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/6/33/" class="pref-link">和歌山県</a>            </li>
+                      </ul>
+        </td>
+      </tr>
+      
+      <tr>
+        <th><a href="/forecast/7/">中国地方</a></th>
+        <td>
+          <ul>
+            <li class="warn-icon-set"><a href="/forecast/7/34/" class="pref-link">鳥取県</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/7/35/" class="pref-link">島根県</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/7/36/" class="pref-link">岡山県</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/7/37/" class="pref-link">広島県</a><a href="/bousai/warn/7/37/" class="warn-icon is-alert"><img src="https://static.tenki.jp/images/icon/warn/alert.gif" alt="注意報" width="15" height="15"></a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/7/38/" class="pref-link">山口県</a>            </li>
+                      </ul>
+        </td>
+      </tr>
+      
+      <tr>
+        <th><a href="/forecast/8/">四国地方</a></th>
+        <td>
+          <ul>
+            <li class="warn-icon-set"><a href="/forecast/8/39/" class="pref-link">徳島県</a><a href="/bousai/warn/8/39/" class="warn-icon is-alert"><img src="https://static.tenki.jp/images/icon/warn/alert.gif" alt="注意報" width="15" height="15"></a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/8/40/" class="pref-link">香川県</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/8/41/" class="pref-link">愛媛県</a><a href="/bousai/warn/8/41/" class="warn-icon is-alert"><img src="https://static.tenki.jp/images/icon/warn/alert.gif" alt="注意報" width="15" height="15"></a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/8/42/" class="pref-link">高知県</a>            </li>
+                      </ul>
+        </td>
+      </tr>
+      
+      <tr>
+        <th><a href="/forecast/9/">九州地方</a></th>
+        <td>
+          <ul>
+            <li class="warn-icon-set"><a href="/forecast/9/43/" class="pref-link">福岡県</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/9/44/" class="pref-link">佐賀県</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/9/45/" class="pref-link">長崎県</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/9/46/" class="pref-link">熊本県</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/9/47/" class="pref-link">大分県</a><a href="/bousai/warn/9/47/" class="warn-icon is-alert"><img src="https://static.tenki.jp/images/icon/warn/alert.gif" alt="注意報" width="15" height="15"></a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/9/48/" class="pref-link">宮崎県</a>            </li>
+            
+            <li class="warn-icon-set"><a href="/forecast/9/49/" class="pref-link">鹿児島県</a><a href="/bousai/warn/9/49/" class="warn-icon is-alert"><img src="https://static.tenki.jp/images/icon/warn/alert.gif" alt="注意報" width="15" height="15"></a>            </li>
+                      </ul>
+        </td>
+      </tr>
+      
+      <tr>
+        <th><a href="/forecast/10/">沖縄地方</a></th>
+        <td>
+          <ul>
+            <li class="warn-icon-set"><a href="/forecast/10/50/" class="pref-link">沖縄県</a><a href="/bousai/warn/10/50/" class="warn-icon is-alert"><img src="https://static.tenki.jp/images/icon/warn/alert.gif" alt="注意報" width="15" height="15"></a>            </li>
+                      </ul>
+        </td>
+      </tr>
+      
+    </table>
+  </section>
+  <!-- /都道府県一覧 -->
+
+
+<!-- 市区町村一覧 -->
+  <section id="forecast-others-point-entries" class="section-wrap">
+    <h3>長野県各地の天気</h3>
+    <h4 class="forecast-point-city-name">北部(長野)</h4>
+    <ul class="forecast-point-entries clearfix">
+      <li><a href="/forecast/3/23/4810/20201/">長野市</a>      </li>
+      
+      <li><a href="/forecast/3/23/4810/20207/">須坂市</a>      </li>
+      
+      <li><a href="/forecast/3/23/4810/20211/">中野市</a>      </li>
+      
+      <li><a href="/forecast/3/23/4810/20212/">大町市</a>      </li>
+      
+      <li><a href="/forecast/3/23/4810/20213/">飯山市</a>      </li>
+      
+      <li><a href="/forecast/3/23/4810/20218/">千曲市</a>      </li>
+      
+      <li><a href="/forecast/3/23/4810/20481/">池田町</a>      </li>
+      
+      <li><a href="/forecast/3/23/4810/20482/">松川村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4810/20485/">白馬村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4810/20486/">小谷村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4810/20521/">坂城町</a>      </li>
+      
+      <li><a href="/forecast/3/23/4810/20541/">小布施町</a>      </li>
+      
+      <li><a href="/forecast/3/23/4810/20543/">高山村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4810/20561/">山ノ内町</a>      </li>
+      
+      <li><a href="/forecast/3/23/4810/20562/">木島平村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4810/20563/">野沢温泉村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4810/20583/">信濃町</a>      </li>
+      
+      <li><a href="/forecast/3/23/4810/20588/">小川村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4810/20590/">飯綱町</a>      </li>
+      
+      <li><a href="/forecast/3/23/4810/20602/">栄村</a>      </li>
+          </ul>
+            <h4 class="forecast-point-city-name">中部(松本)</h4>
+    <ul class="forecast-point-entries clearfix">
+      <li><a href="/forecast/3/23/4820/20202/">松本市</a>      </li>
+      
+      <li><a href="/forecast/3/23/4820/20203/">上田市</a>      </li>
+      
+      <li><a href="/forecast/3/23/4820/20204/">岡谷市</a>      </li>
+      
+      <li><a href="/forecast/3/23/4820/20206/">諏訪市</a>      </li>
+      
+      <li><a href="/forecast/3/23/4820/20208/">小諸市</a>      </li>
+      
+      <li><a href="/forecast/3/23/4820/20214/">茅野市</a>      </li>
+      
+      <li><a href="/forecast/3/23/4820/20215/">塩尻市</a>      </li>
+      
+      <li><a href="/forecast/3/23/4820/20217/">佐久市</a>      </li>
+      
+      <li><a href="/forecast/3/23/4820/20219/">東御市</a>      </li>
+      
+      <li><a href="/forecast/3/23/4820/20220/">安曇野市</a>      </li>
+      
+      <li><a href="/forecast/3/23/4820/20303/">小海町</a>      </li>
+      
+      <li><a href="/forecast/3/23/4820/20304/">川上村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4820/20305/">南牧村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4820/20306/">南相木村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4820/20307/">北相木村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4820/20309/">佐久穂町</a>      </li>
+      
+      <li><a href="/forecast/3/23/4820/20321/">軽井沢町</a>      </li>
+      
+      <li><a href="/forecast/3/23/4820/20323/">御代田町</a>      </li>
+      
+      <li><a href="/forecast/3/23/4820/20324/">立科町</a>      </li>
+      
+      <li><a href="/forecast/3/23/4820/20349/">青木村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4820/20350/">長和町</a>      </li>
+      
+      <li><a href="/forecast/3/23/4820/20361/">下諏訪町</a>      </li>
+      
+      <li><a href="/forecast/3/23/4820/20362/">富士見町</a>      </li>
+      
+      <li><a href="/forecast/3/23/4820/20363/">原村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4820/20446/">麻績村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4820/20448/">生坂村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4820/20450/">山形村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4820/20451/">朝日村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4820/20452/">筑北村</a>      </li>
+          </ul>
+            <h4 class="forecast-point-city-name">南部(飯田)</h4>
+    <ul class="forecast-point-entries clearfix">
+      <li><a href="/forecast/3/23/4830/20205/">飯田市</a>      </li>
+      
+      <li><a href="/forecast/3/23/4830/20209/">伊那市</a>      </li>
+      
+      <li><a href="/forecast/3/23/4830/20210/">駒ヶ根市</a>      </li>
+      
+      <li><a href="/forecast/3/23/4830/20382/">辰野町</a>      </li>
+      
+      <li><a href="/forecast/3/23/4830/20383/">箕輪町</a>      </li>
+      
+      <li><a href="/forecast/3/23/4830/20384/">飯島町</a>      </li>
+      
+      <li><a href="/forecast/3/23/4830/20385/">南箕輪村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4830/20386/">中川村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4830/20388/">宮田村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4830/20402/">松川町</a>      </li>
+      
+      <li><a href="/forecast/3/23/4830/20403/">高森町</a>      </li>
+      
+      <li><a href="/forecast/3/23/4830/20404/">阿南町</a>      </li>
+      
+      <li><a href="/forecast/3/23/4830/20407/">阿智村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4830/20409/">平谷村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4830/20410/">根羽村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4830/20411/">下條村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4830/20412/">売木村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4830/20413/">天龍村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4830/20414/">泰阜村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4830/20415/">喬木村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4830/20416/">豊丘村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4830/20417/">大鹿村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4830/20422/">上松町</a>      </li>
+      
+      <li><a href="/forecast/3/23/4830/20423/">南木曽町</a>      </li>
+      
+      <li><a href="/forecast/3/23/4830/20425/">木祖村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4830/20429/">王滝村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4830/20430/">大桑村</a>      </li>
+      
+      <li><a href="/forecast/3/23/4830/20432/">木曽町</a>      </li>
+          </ul>
+          </section>
+  <!-- /市区町村一覧 -->
